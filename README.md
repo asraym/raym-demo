@@ -1,4 +1,4 @@
 # raym-demo
 First Git Repository 
 <br>
-Author - Ashish Raymajhi 阿希 
+Author - Ashish Raymajhi 
